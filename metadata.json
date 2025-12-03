@@ -1,0 +1,5 @@
+{
+  "name": "Correios - Dados da Tentativa",
+  "description": "Uma aplicação para registrar e consultar dados de tentativas de coleta ou entrega do Correios, inspirada em um formulário do Google Forms.",
+  "requestFramePermissions": []
+}

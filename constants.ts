@@ -1,0 +1,51 @@
+
+export const MOTIVOS_TENTATIVA = [
+  "Produto não permitido",
+  "Produto com embalagem inadequada",
+  "Não há objetos a coletar",
+  "Endereço Insuficiente",
+  "Não existe o numero indicado",
+  "Desconhecido no Endereço",
+  "Usuário desistiu do envio",
+  "Cancelado pelo contratante",
+  "Produto não embalado",
+  "Mudou-se",
+  "Pedido duplicado",
+  "Objeto não disponível para coleta no momento da tentativa",
+  "Objeto não disponibilizado na portaria",
+  "Já Coletado",
+];
+
+export const MOTIVOS_INSUFICIENCIA = [
+  "Falta Numero da Casa",
+  "Falta Numero do Apartamento",
+  "Falta Numero da Sala",
+];
+
+export const CARTEIROS = [
+  "Douglas Lira / 81126468",
+  "Robson Luis de Arruda Moura / 811066228",
+  "Ericson Tomaz Nobre / 89243820",
+  "Francisco Neto da Conceição / 81052197",
+  "Genaro Elísio Barbosa / 89199472",
+  "Gilmar Alexandre Vasconcelos / 89151461",
+  "Simone Gomes Bezerra Barbosa / 81112874",
+  "Gildemberg Santos Lima / 89148690",
+  "Wilson Lima de Oliveira / 81075715",
+  "Josué Lima dos Santos / 89014138",
+  "Sergio Luiz Almeida / 81131232",
+  "Flavio Luciano da Silva / 81111630",
+  "Edison Amaro da Silva Junior / 89071093",
+  "Antônio Aparecido Agostinho / 88926257",
+  "Anderson Reis / 81063709",
+  "Marcio Roberto Rodrigues / 89175468",
+  "Roberto Favaron Renaldino / 89203909",
+  "Willian de Oliveira Moura / 81106416",
+  "Neemias Misael Dias de Carvalho / 81076541",
+  "David Aparecido da Silva / 81131259",
+  "Alexandre Ganzer de Jesus / 81136439",
+  "Luiz Gustavo Ribeiro / 89114078",
+  "Ney Dilson Moreira Alves / 81055293",
+  "Ailton Rodrigues de Souza / 81065191",
+  "Maria de Nazaré da Silva Silvestre / 81139926",
+];
